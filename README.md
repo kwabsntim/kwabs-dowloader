@@ -34,11 +34,11 @@ Kwabs Youtube Downloader is a simple GUI-based application built with Python and
       in linux
 
       python3 "youtube downloader.py"
+2. Enter the Url of the video you want to donwload in the input field
+3. click the "DOWNLOAD VIDEO" button to start download.
+4. The progress bar and status label will update to show you that the donwload is done or in    progress.
 
 
-2.Enter the Url of the video you want to donwload in the input field 
-3.click the "DOWNLOAD VIDEO" button to start download.
-4.The progress bar and status label will update to show you that the donwload is done or in    progress.
    
       
    
