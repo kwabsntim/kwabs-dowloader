@@ -38,11 +38,18 @@ Kwabs Youtube Downloader is a simple GUI-based application built with Python and
 3. click the "DOWNLOAD VIDEO" button to start download.
 4. The progress bar and status label will update to show you that the donwload is done or in    progress.
 
+
+
 ## Project structure
-```bash
-   youtube downloader.py       # Main application script
-   build/                      # Build artifacts (if any)
-      
+   ```bash
+         youtube downloader.py       # Main application script
+         build/                      # Build artifacts (if any)
+
+
+## Notes
+   1. Ensure you have a stable internet connection while downloading videos.
+   2. The downloaded videos and subtitles will be saved in the same directory as the script.
+     
       
    
 
