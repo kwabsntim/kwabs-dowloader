@@ -41,15 +41,17 @@ Kwabs Youtube Downloader is a simple GUI-based application built with Python and
 
 
 ## Project structure
-   ```bash
+   
+	
+	 ```bash
          youtube downloader.py       # Main application script
          build/                      # Build artifacts (if any)
 
+## Notes 
 
-## Notes
-   1. Ensure you have a stable internet connection while downloading videos.
-   2. The downloaded videos and subtitles will be saved in the same directory as the script.
-     
+1. Ensure you have a stable internet connection while downloading videos
+2. The downloaded videos will be save d in the same directory as the script 
+
       
    
 
