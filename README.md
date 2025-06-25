@@ -21,5 +21,26 @@ Kwabs Youtube Downloader is a simple GUI-based application built with Python and
    ```bash
    git clone https://github.com/your-username/kwabs-youtube-downloader.git
    cd kwabs-youtube-downloader
+2. Install the required dependencies
+   ```bash
+      pip install yt-dlp
+
+## Usage
+
+1. Run the application
+   ```bash
+      python "youtube downloader.py"
+
+      in linux
+
+      python3 "youtube downloader.py"
+
+
+2.Enter the Url of the video you want to donwload in the input field 
+3.click the "DOWNLOAD VIDEO" button to start download.
+4.The progress bar and status label will update to show you that the donwload is done or in    progress.
+   
+      
+   
 
   
