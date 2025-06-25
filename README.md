@@ -53,6 +53,7 @@ Kwabs Youtube Downloader is a simple GUI-based application built with Python and
 2. The downloaded videos will be save d in the same directory as the script 
 
       
-   
+   ![Screenshot from 2025-06-25 04-54-51](https://github.com/user-attachments/assets/e2d2d267-e011-4002-9cf8-77f576fd8f61)
+
 
   
